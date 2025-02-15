@@ -1,4 +1,4 @@
-Created by KS Gamer
+Created by KS Gamer.                                                                                                      
 All of you get here
 1] Free Hosting
 2] Paid Plugin For Free
