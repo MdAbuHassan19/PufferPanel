@@ -2,15 +2,16 @@ main ()
 {
   echo -n "PufferPanel Installer Created By KS Gamer"
   # update apt on this system
-   sudo apt update && sudo apt upgrade -y
-   curl -s https://packagecloud.io/install/repositories/pufferpanel/pufferpanel/script.deb.sh | bash
-   sudo apt install pufferpanel
+   apt update
+   apt upgrade -y
+   wget https://github.com/MdAbuHassan19/PufferPanel/blob/main/install_panel.sh
+   bash install_panel.sh
+   apt install pufferpanel
    pufferpanel user add
-   sudo apt install systemctl -y
+   apt install systemctl -y
    systemctl enable --now pufferpanel
 
   echo
   echo "PufferPanel Install completed"
 }
-
 main
