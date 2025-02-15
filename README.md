@@ -1,5 +1,5 @@
 Created by KS Gamer.                                                                                                      
-All of you get here
+All of you get here.                                                                                                      
 1] Free Hosting
 2] Paid Plugin For Free
 3] Make Your Own Hosting
