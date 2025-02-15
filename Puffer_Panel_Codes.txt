@@ -1,2 +1,2 @@
 1] sudo su
-2] https://github.com/MdAbuHassan19/PufferPanel/blob/main/Puffer_Panel_Installer.sh && bash Puffer_Panel_Installer.sh
+2] wget https://github.com/MdAbuHassan19/PufferPanel/blob/main/Puffer_Panel_Installer.sh && bash Puffer_Panel_Installer.sh
