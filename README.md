@@ -9,3 +9,5 @@ All of you get here.
 In my Discord server 
 so join it no 
 https://discord.gg/aEeM2az9Be
+
+injoy
